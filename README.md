@@ -15,8 +15,9 @@ Customers can browse furniture, rotate procedural 3D previews, manage a cart, pl
 
 ## Live demo
 
-- Frontend: https://frontend-ten-iota-75.vercel.app  
+- App: https://frontend-ten-iota-75.vercel.app  
 - API: https://furnish3d-api-production.up.railway.app  
+- GitHub: https://github.com/saadwaheeddevelopement11-afk/Furnish3D  
 
 Demo logins use password `password123` (see accounts below).
 

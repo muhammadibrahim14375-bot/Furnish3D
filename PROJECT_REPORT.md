@@ -19,7 +19,7 @@
 | **Live website** | https://frontend-ten-iota-75.vercel.app |
 | **Live API** | https://furnish3d-api-production.up.railway.app |
 | **API health check** | https://furnish3d-api-production.up.railway.app/api/health |
-| **GitHub repository** | https://github.com/saadwaheeddevelopement11-afk/Furnish3D |
+| **GitHub repository** | https://github.com/muhammadibrahim14375-bot/Furnish3D |
 
 ### Demo accounts (password for all: `password123`)
 
@@ -154,7 +154,7 @@ npm run dev
 |------|----------|----------|
 | Frontend | Vercel | https://frontend-ten-iota-75.vercel.app |
 | Backend | Railway | https://furnish3d-api-production.up.railway.app |
-| Source code | GitHub | https://github.com/saadwaheeddevelopement11-afk/Furnish3D |
+| Source code | GitHub | https://github.com/muhammadibrahim14375-bot/Furnish3D |
 
 ---
 

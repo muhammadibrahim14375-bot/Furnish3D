@@ -11,10 +11,10 @@ API HEALTH
 https://furnish3d-api-production.up.railway.app/api/health
 
 GITHUB
-https://github.com/saadwaheeddevelopement11-afk/Furnish3D
+https://github.com/muhammadibrahim14375-bot/Furnish3D
 
 PROJECT REPORT (in repo)
-https://github.com/saadwaheeddevelopement11-afk/Furnish3D/blob/main/PROJECT_REPORT.md
+https://github.com/muhammadibrahim14375-bot/Furnish3D/blob/main/PROJECT_REPORT.md
 
 DEMO LOGINS (password for all: password123)
 - customer@furnish3d.com  (Customer)

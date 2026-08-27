@@ -1,0 +1,31 @@
+{
+  "name": "furnish3d-backend",
+  "version": "1.0.0",
+  "description": "Furnish3D Express API – interactive 3D furniture store",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/db/seed.js; node src/server.js",
+    "dev": "nodemon src/server.js",
+    "seed": "node src/db/seed.js"
+  },
+  "keywords": [
+    "furniture",
+    "ecommerce",
+    "3d"
+  ],
+  "author": "Muhammad Ibrahim",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "bcryptjs": "^3.0.3",
+    "cors": "^2.8.6",
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1",
+    "jsonwebtoken": "^9.0.3",
+    "morgan": "^1.11.0"
+  },
+  "devDependencies": {
+    "@railway/cli": "^5.45.0",
+    "nodemon": "^3.1.14"
+  }
+}

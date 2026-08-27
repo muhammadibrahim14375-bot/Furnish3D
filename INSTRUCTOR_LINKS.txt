@@ -1,0 +1,22 @@
+Furnish3D — Links for Instructor
+Student: Muhammad Ibrahim | Course: LLM Driven Web Mastery | Glaxit
+
+LIVE WEBSITE
+https://frontend-ten-iota-75.vercel.app
+
+LIVE API
+https://furnish3d-api-production.up.railway.app
+
+API HEALTH
+https://furnish3d-api-production.up.railway.app/api/health
+
+GITHUB
+https://github.com/saadwaheeddevelopement11-afk/Furnish3D
+
+PROJECT REPORT (in repo)
+https://github.com/saadwaheeddevelopement11-afk/Furnish3D/blob/main/PROJECT_REPORT.md
+
+DEMO LOGINS (password for all: password123)
+- customer@furnish3d.com  (Customer)
+- mod@furnish3d.com       (Moderator)
+- admin@furnish3d.com     (Admin)
